@@ -27,10 +27,15 @@
 
 ## Autores
 
-- Lucio Alejandro Moreno 
-- Michael Andres Lora
+- Lucio Alejandro Moreno
+- Michael Lora
+- Juan Sebastian Ramirez Melo
+- Brandom Pedraza Tovar
+- Omar Santiago Cortes Parra
+
 
 ## Instrucciones de entrega
 
 - Incluye capturas de código y UML en el informe PDF.
 - Sube el PDF y el repositorio a Moodle.
+
