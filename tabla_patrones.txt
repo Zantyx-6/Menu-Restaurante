@@ -1,0 +1,5 @@
+Patrón	Clase(s) donde se aplica	Propósito en el sistema	Ejemplo de uso
+Composite	MenuComponent, MenuCategory, MenuItem	Construcción jerárquica de menús	MenuCategory contiene MenuItem y otras MenuCategory
+Proxy	MenuProxy	Control de acceso a menús premium	MenuProxy verifica autenticación antes de mostrar ítem premium
+Strategy	DescuentoStrategy, DescuentoPorcentaje, Descuento2x1, DescuentoCombo	Aplicar descuentos intercambiables	Pedido usa diferentes estrategias de descuento
+Template Method	PedidoTemplate, PedidoEstandar, PedidoVIP	Flujo de pedido con pasos fijos y hooks	PedidoTemplate define pasos, subclases personalizan pago/confirmación
